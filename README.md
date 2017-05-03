@@ -8,7 +8,7 @@ This plugin will add right analog stick support to the following PSP games on th
 	50Cent BulletProof G-Unit Edition
 	Aliens vs. Predator Requiem
 	Ape Escape: On the Loose
-	Assassins Creed: Bloodlines
+	Assassins Creed: Bloodlines (commented out)
 	Avatar The Game
 	Ben 10 Aien Force Vilgax Attacks
 	Ben 10 Ultimate Alien Cosmic Destruction
@@ -21,8 +21,8 @@ This plugin will add right analog stick support to the following PSP games on th
 	Ghostbusters: The Video Game
 	God of War: Chains of Olympus (dodge with stick)
 	God of War: Ghost of Sparta	(dodge with stick)
-	Grand Theft Auto Liberty City Stories
-	Grand Theft Auto Vice City Stories
+	Grand Theft Auto Liberty City Stories (commented out)
+	Grand Theft Auto Vice City Stories (commented out)
 	Gun Showdown 
 	Indiana Jones and Staff of Kings
 	Iron Man
@@ -52,7 +52,7 @@ This plugin will add right analog stick support to the following PSP games on th
 	Ratched & Clank Size Matters
 	Rengoku: The Tower of Purgatory
 	Rengoku II: The Stairway to Heaven
-	Resistance Retribution
+	Resistance Retribution (commented out)
 	Secret Agent Clank
 	Silent Hill: Shattered Memories
 	Skate Park City
@@ -74,8 +74,8 @@ This plugin will add right analog stick support to the following PSP games on th
 	Tom Clancy's Rainbow Six Vegas
 	Tom Clancy's Ghost Recon Advanced Warfighter 2
 	Tom Clancy's Ghost Recon Predator
-	The Legend Of Heroes: Trails in the Sky
-	The Legend Of Heroes: Trails in the Sky Second Chapter
+	The Legend Of Heroes: Trails in the Sky (commented out)
+	The Legend Of Heroes: Trails in the Sky Second Chapter (commented out)
 	Tomb Raider: Legends
 	Tomb Raider: Anniversary
 	Tony Hawk's Underground 2
