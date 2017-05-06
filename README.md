@@ -98,9 +98,6 @@ Copy the prx file to your seplugins folder and add "ms0:seplugins/camera_patch_l
 
 
 Thanks to:
-
 Freakler for original code of camera_patch_lite
-
 reprep for helping with controller hooks
-
 Total_Noob for his DS3remapper
